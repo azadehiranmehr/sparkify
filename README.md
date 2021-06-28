@@ -1,4 +1,6 @@
-# This is a Capstone Machin learning Project that has been done as a final project in udacity’s Nanodegree Data Science program using Spark technology. we’ll focus on Sparkify, its full dataset is 12GB, of which a subset was provided by Udacity in the workspace (Github repository). Also, there is an option to choose Spark cluster on the cloud using AWS or IBM Cloud to analyze the full dataset.
+# This is a Capstone Machin learning Project that has been done as a final project in udacity’s Nanodegree Data Science program using Spark technology.
+
+ we’ll focus on Sparkify, its full dataset is 12GB, of which a subset was provided by Udacity in the workspace (Github repository). Also, there is an option to choose Spark cluster on the cloud using AWS or IBM Cloud to analyze the full dataset.
 Predicting customers’ behavior is important for businesses, and it is a very challenging task. Data science can assist in peredicticting users’ needs . Predicting user churn rate is one of the most challenging and common tasks that are necessary for any customer-oriented business. In this project, we created a model to predict churn.
 In this project, we have estimated whether users of a fictitious audio streaming platform are likely to unsubscribe, based on their activity logs.
 
