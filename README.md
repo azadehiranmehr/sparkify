@@ -16,7 +16,7 @@ In this project, we have estimated whether users of a fictitious audio streaming
 ### Installation: <a name="installation"></a>
 #### Dependencies <a name="dependencies"></a>
 In addition to the Anaconda distribution of Python versions 3.5+, please install the following packages: 
-* NumPy, Matplotlib, Seaborn  
+* NumPy, Matplotlib, Seaborn, Pandas 
 * PySpark
 
 ### Project Description & Motivation: <a name="motivation"></a>
