@@ -25,7 +25,7 @@ I think we can do much work on feature engineering and test some more features a
 With this project, I got familiar with building data science projects on Apache Spark which is necessary for big data applications. Customer churn is one of the greatest threats for all companies and they need to be doing all necessary works to maintain their customers. It was a great experience for me to work with different modules under PySpark and understanding its functionality, data frame, and overall architecture. The biggest challenge in this project was to identify features that impact how likely a customer will churn or not. Determining the right features will determine the performance and accuracy of the model.
 
 ### File Description: <a name="files"></a>
-There is a notebook available here to showcase work related to this project. The notebook is exploratory in searching through and working with the data pertaining to the churn rate prediction of the subject in hand, and markdown cells were used to assist in walking through the thought process for individual steps.  
+There is a notebook available here to showcase work related to this project. Exploratory analysis , data wrangling and cleansing along with data modeling part were located in this notebook. through and working with the data pertaining to the churn rate prediction of the subject in hand, and markdown cells were used to assist in walking through the thought process for individual steps.  
 
 ## Results<a name="results"></a>
 The main findings and research for this project can be found in the post available [here](https://iranmehrazadeh.medium.com/sparkify-the-big-data-capstone-project-f9c4c819d8be).
